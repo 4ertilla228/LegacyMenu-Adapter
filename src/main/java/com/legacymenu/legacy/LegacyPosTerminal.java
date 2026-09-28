@@ -1,4 +1,4 @@
-package main.java.com.legacymenu.legacy;
+package com.legacymenu.legacy;
 
 public class LegacyPosTerminal {
     public int saveToTerminal(byte[] data){

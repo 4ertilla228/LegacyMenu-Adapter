@@ -1,4 +1,4 @@
-package main.java.com.legacymenu.model;
+package com.legacymenu.model;
 import java.util.List;
 
 public class FoodItem extends MenuItem {

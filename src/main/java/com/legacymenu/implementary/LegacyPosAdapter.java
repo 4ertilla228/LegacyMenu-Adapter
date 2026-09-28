@@ -1,7 +1,7 @@
-package main.java.com.legacymenu.implementary;
-import main.java.com.legacymenu.legacy.LegacyPosTerminal;
-import main.java.com.legacymenu.model.MenuItem;
-import main.java.com.legacymenu.model.StorageSyncException;
+package com.legacymenu.implementary;
+import com.legacymenu.legacy.LegacyPosTerminal;
+import com.legacymenu.model.MenuItem;
+import com.legacymenu.model.StorageSyncException;
 
 
 public class LegacyPosAdapter implements CatalogStorage {

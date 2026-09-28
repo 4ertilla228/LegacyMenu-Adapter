@@ -1,4 +1,4 @@
-package main.java.com.legacymenu.model;
+package com.legacymenu.model;
 
 public class StorageSyncException extends Exception {
     public StorageSyncException(String message) {

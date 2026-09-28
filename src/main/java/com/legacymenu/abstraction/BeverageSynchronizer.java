@@ -1,8 +1,8 @@
-package main.java.com.legacymenu.abstraction;
-import main.java.com.legacymenu.implementary.CatalogStorage;
-import main.java.com.legacymenu.model.BeverageItem;
-import main.java.com.legacymenu.model.MenuItem;
-import main.java.com.legacymenu.model.StorageSyncException;
+package com.legacymenu.abstraction;
+import com.legacymenu.implementary.CatalogStorage;
+import com.legacymenu.model.BeverageItem;
+import com.legacymenu.model.MenuItem;
+import com.legacymenu.model.StorageSyncException;
 
 public class BeverageSynchronizer extends MenuSynchronizer {
     public BeverageSynchronizer(CatalogStorage storage) {

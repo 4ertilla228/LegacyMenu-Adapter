@@ -1,4 +1,4 @@
-package main.java.com.legacymenu.model;
+package com.legacymenu.model;
 
 public class BeverageItem extends MenuItem{
     private double volumeLiters;
